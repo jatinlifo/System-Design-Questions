@@ -35,9 +35,9 @@ we have to make parking garages where parked any type of vechial.
             ↑
         Entrance
 C = Car Spot
-M = Motorcycle Spot
-T = Truck Spot
-E = Electric Vehicle Spot
+M = Motorcycle Spot.
+T = Truck Spot.
+E = Electric Vehicle Spot.
 
 ## Functional Requirements
 1. Vechial Entry our garage.
