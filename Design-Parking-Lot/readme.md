@@ -22,6 +22,9 @@ we have to make parking garages where parked any type of vechial.
 7.Every time manage availibilty where spot is available because our system is online
 
 ## PARKING GARAGE
+## PARKING GARAGE
+
+```text
 ┌─────────────────────┐
 │      Floor 3        │
 │ [C][C][T][T][E][E]  │
@@ -32,12 +35,15 @@ we have to make parking garages where parked any type of vechial.
 │      Floor 1        │
 │ [C][C][M][M][T][E]  │
 └─────────────────────┘
-            ↑
-        Entrance
-C = Car Spot.
-M = Motorcycle Spot.
-T = Truck Spot.
-E = Electric Vehicle Spot.
+          ↑
+      Entrance
+```
+
+**Legend:**
+- C = Car Spot
+- M = Motorcycle Spot
+- T = Truck Spot
+- E = Electric Vehicle Spot
 
 ## Functional Requirements
 1. Vechial Entry our garage.
