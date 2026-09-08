@@ -163,9 +163,9 @@ int main () {
 
         int returnMoney = twoVechilarVechail.calculateAmount(10);
 
-        cout << "User Return Money" << ": " << returnMoney << endl;
+        cout << "User Return Money...." << " : " << returnMoney << endl;
         twoVechilarVechail.exitVechial(12);
-        cout << "Exit the user" << endl;
+        cout << "Exit the user " << endl;
     } else {
 
         cout << "Please enter correct numberplate and correct amount" << endl;
