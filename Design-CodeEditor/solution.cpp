@@ -150,7 +150,7 @@ int main () {
    cout << "Save Code: " << saveMongoDB.saveCode(1, code2) << endl;
    cout << "Get Code: " << saveMongoDB.getCode(1) << endl;
 
-   cout << "End......................................................................................" << endl;
+   cout << "End........................................................................................." << endl;
 
 
     return 0;
