@@ -12,3 +12,5 @@ We need to design a Netflix-like video streaming platform that enables millions 
 Users should be able to browse content, stream videos, search titles, and receive personalized recommendations seamlessly.
 The system should ensure smooth video playback with minimal buffering while supporting multiple devices and varying network conditions.
 The design should focus on scalability, fault tolerance, content delivery, data storage, and overall system performance.
+
+## Requriements 
